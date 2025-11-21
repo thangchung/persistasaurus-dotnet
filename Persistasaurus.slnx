@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Persistasaurus.Api/Persistasaurus.Api.csproj" />
+  <Project Path="Persistasaurus.AppHost/Persistasaurus.AppHost.csproj" />
+  <Project Path="Persistasaurus.Tests/Persistasaurus.Tests.csproj" />
+  <Project Path="Persistasaurus/Persistasaurus.csproj" />
+</Solution>
