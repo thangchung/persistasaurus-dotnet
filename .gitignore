@@ -1,0 +1,13 @@
+## Persistasaurus.NET - Port from Java to .NET 10
+
+bin/
+obj/
+*.db
+*.db-wal
+*.db-shm
+*.user
+*.suo
+.vs/
+.vscode/
+*.log
+TestResults/
